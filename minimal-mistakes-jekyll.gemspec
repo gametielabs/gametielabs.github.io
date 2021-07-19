@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name                    = "minimal-mistakes-jekyll"
   spec.version                 = "4.24.0"
-  spec.authors                 = ["Michael Rose"]
+  spec.authors                 = ["infinite-flat"]
 
   spec.summary                 = %q{A flexible two-column Jekyll theme.}
-  spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"
+  spec.homepage                = "https://github.com/gametielabs/gametielabs.github.io"
   spec.license                 = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
